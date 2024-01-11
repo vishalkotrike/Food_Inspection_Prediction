@@ -1,4 +1,4 @@
-Analyzing and Forecasting Food Safety Compliance in Chicago Restaurants: Predicting Violations and Future Trends
+Analyzing and Forecasting Food Safety Compliance in Chicago Facility Types: Predicting Violations and Future Trends
 
 Problem Statement: The recent Salmonella outbreak associated with a Chicago taqueria, affecting over 55 individuals, underscores a critical food safety challenge in the city. 
 This incident highlights how important it is to have strict oversight and preventative measures in place to protect health of Chicago residents and safety when they eat out. 
