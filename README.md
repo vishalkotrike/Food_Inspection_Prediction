@@ -4,7 +4,7 @@ Problem Statement: The recent Salmonella outbreak associated with a Chicago taqu
 This incident highlights how important it is to have strict oversight and preventative measures in place to protect health of Chicago residents and safety when they eat out. 
 Our project's objectives are to investigate the outbreak, pinpoint its origins, and evaluate any gaps in food safety procedures that might have contributed to the event. 
 
-In this project, we are have achieved the following:
+In this project, the following were acheived:
 
 Predictions and Forecasts:
 •	Develop a model to predict the Inspection outcomes.
